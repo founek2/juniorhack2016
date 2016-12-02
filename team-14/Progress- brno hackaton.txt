@@ -5,5 +5,9 @@
 19h –psaní kódu, logika køižovatky, detekování aut
 18h-zjištìna  funkènost githubu
 17,30- framework gui C, hledání objektù
+17h- rozdíly objektù, gui 
+16,30h-zlom - .clone();
+16h - karel to jde sepsat a pak nám to chce øíct
+15h - kompilace GUI pro c++ je opravdu nároèná a stále nefunguje
 
  
