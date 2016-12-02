@@ -1,0 +1,9 @@
+22h –importovány knihovny opencv, jazyk java
+21h- pøechod z java do C, komplikace spuštìní openCV
+20h – koneènì zkompilováno opencv a hurá do práce!
+19,5h –veèeøe
+19h –psaní kódu, logika køižovatky, detekování aut
+18h-zjištìna  funkènost githubu
+17,30- framework gui C, hledání objektù
+
+ 
