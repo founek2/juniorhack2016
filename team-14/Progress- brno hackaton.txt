@@ -15,4 +15,6 @@
 12h -rada spi , linux crashed
 6h- spal jsem , není dokumenta odvedené práce
 5.45h - rozlisujeme pocet aut podle pruhu na kterem jsou
+4,5h - øešení priority pruhù
+4h - Zaèínáme psát podmínky pro prioritu... Rly hard!
  
