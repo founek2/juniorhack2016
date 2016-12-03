@@ -13,5 +13,6 @@
 14,30h -detekujeme poèet aut
 13h rozdìlení silnice vektorem
 12h -rada spi , linux crashed
-11h - funguje trackování aut a Koneènì máme funkèní GUI pro c++ Jééééj!
+6h- spal jsem , není dokumenta odvedené práce
+5.45h - rozlisujeme pocet aut podle pruhu na kterem jsou
  
