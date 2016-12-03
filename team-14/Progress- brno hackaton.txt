@@ -8,6 +8,10 @@
 17h- rozdíly objektù, gui 
 16,30h-zlom - .clone();
 16h - karel to jde sepsat a pak nám to chce øíct
-15h - kompilace GUI pro c++ je opravdu nároèná a stále nefunguje
-
+15,30- posilnìní PIZZA
+15h - kompilace GUI pro c++ je opravdu nároèná a stále nefunguje 
+14,30h -detekujeme poèet aut
+13h rozdìlení silnice vektorem
+12h -rada spi , linux crashed
+11h - funguje trackování aut a Koneènì máme funkèní GUI pro c++ Jééééj!
  
