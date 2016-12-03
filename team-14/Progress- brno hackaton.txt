@@ -17,4 +17,6 @@
 5.45h - rozlisujeme pocet aut podle pruhu na kterem jsou
 4,5h - øešení priority pruhù
 4h - Zaèínáme psát podmínky pro prioritu... Rly hard!
+2h- dopsání kodu, dokonèení prezentace
+1h odpoèinek a regenerace
  
